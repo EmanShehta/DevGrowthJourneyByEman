@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssembliesDemo-Eman", "..\..\..\Downloads\AssembliesDemo-Eman\AssembliesDemo-Eman.csproj", "{BEDDB355-ABEB-4DAB-9719-599B9ABFCCC2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionDemo-Eman", "..\..\..\Downloads\ReflectionDemo-Eman\ReflectionDemo-Eman.csproj", "{23253E66-4031-49AB-A32C-58C981A39E0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +17,15 @@ Global
 		{BEDDB355-ABEB-4DAB-9719-599B9ABFCCC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEDDB355-ABEB-4DAB-9719-599B9ABFCCC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEDDB355-ABEB-4DAB-9719-599B9ABFCCC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23253E66-4031-49AB-A32C-58C981A39E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23253E66-4031-49AB-A32C-58C981A39E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23253E66-4031-49AB-A32C-58C981A39E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23253E66-4031-49AB-A32C-58C981A39E0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1ED33C7-02A7-489C-8FA2-279C8B6AA54C}
 	EndGlobalSection
 EndGlobal
