@@ -1,0 +1,14 @@
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\bin\Debug\net8.0\ThreadingConsoleDemoEman.exe
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\bin\Debug\net8.0\ThreadingConsoleDemoEman.deps.json
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\bin\Debug\net8.0\ThreadingConsoleDemoEman.runtimeconfig.json
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\bin\Debug\net8.0\ThreadingConsoleDemoEman.dll
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\bin\Debug\net8.0\ThreadingConsoleDemoEman.pdb
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ThreadingConsoleDemoEman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ThreadingConsoleDemoEman.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ThreadingConsoleDemoEman.AssemblyInfo.cs
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ThreadingConsoleDemoEman.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ThreadingConsoleDemoEman.dll
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\refint\ThreadingConsoleDemoEman.dll
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ThreadingConsoleDemoEman.pdb
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ThreadingConsoleDemoEman.genruntimeconfig.cache
+C:\Users\Dell\Downloads\threading_console_project\threading_console_project\obj\Debug\net8.0\ref\ThreadingConsoleDemoEman.dll

@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|c:\\users\\dell\\downloads\\threading_console_project\\threading_console_project\\threadingconsoledemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|solutionrelative:threadingconsoledemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|c:\\users\\dell\\downloads\\threading_console_project\\threading_console_project\\demos\\threadpooldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|solutionrelative:demos\\threadpooldemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|c:\\users\\dell\\downloads\\threading_console_project\\threading_console_project\\utils\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|solutionrelative:utils\\consolehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|c:\\users\\dell\\downloads\\threading_console_project\\threading_console_project\\models\\demomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|solutionrelative:models\\demomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|c:\\users\\dell\\downloads\\threading_console_project\\threading_console_project\\demos\\synchronizationdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|solutionrelative:demos\\synchronizationdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|c:\\users\\dell\\downloads\\threading_console_project\\threading_console_project\\demos\\basicthreadingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|solutionrelative:demos\\basicthreadingdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|c:\\users\\dell\\downloads\\threading_console_project\\threading_console_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27830236-B06B-43BF-84F6-73342C5C044C}|ThreadingConsoleDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThreadingConsoleDemo",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\ThreadingConsoleDemo.csproj",
+              "RelativeDocumentMoniker": "ThreadingConsoleDemo.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\ThreadingConsoleDemo.csproj",
+              "RelativeToolTip": "ThreadingConsoleDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T17:59:51.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DemoModels.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Models\\DemoModels.cs",
+              "RelativeDocumentMoniker": "Models\\DemoModels.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Models\\DemoModels.cs",
+              "RelativeToolTip": "Models\\DemoModels.cs",
+              "ViewState": "AQIAAMMAAAAwyczMzCwwwM8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T15:45:32.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Utils\\ConsoleHelper.cs",
+              "RelativeDocumentMoniker": "Utils\\ConsoleHelper.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Utils\\ConsoleHelper.cs",
+              "RelativeToolTip": "Utils\\ConsoleHelper.cs",
+              "ViewState": "AQIAAHUAAAAgZmZmZmYhwIIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:27:13.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYBAAAA3szMzMwYwAcBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:27:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThreadPoolDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Demos\\ThreadPoolDemo.cs",
+              "RelativeDocumentMoniker": "Demos\\ThreadPoolDemo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Demos\\ThreadPoolDemo.cs",
+              "RelativeToolTip": "Demos\\ThreadPoolDemo.cs",
+              "ViewState": "AQIAAHUBAAAA25mZmRklwI0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:26:51.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicThreadingDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Demos\\BasicThreadingDemo.cs",
+              "RelativeDocumentMoniker": "Demos\\BasicThreadingDemo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Demos\\BasicThreadingDemo.cs",
+              "RelativeToolTip": "Demos\\BasicThreadingDemo.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAAAANgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:26:44.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SynchronizationDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Demos\\SynchronizationDemo.cs",
+              "RelativeDocumentMoniker": "Demos\\SynchronizationDemo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\threading_console_project\\threading_console_project\\Demos\\SynchronizationDemo.cs",
+              "RelativeToolTip": "Demos\\SynchronizationDemo.cs",
+              "ViewState": "AQIAAMoAAADgYGZmZmYlwAoBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:26:34.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 974,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
