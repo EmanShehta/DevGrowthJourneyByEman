@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|c:\\users\\dell\\downloads\\async_programming_project\\async_programming_project\\demos\\exceptionpropagationdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|solutionrelative:demos\\exceptionpropagationdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|c:\\users\\dell\\downloads\\async_programming_project\\async_programming_project\\demos\\taskreturnvaluedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|solutionrelative:demos\\taskreturnvaluedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|c:\\users\\dell\\downloads\\async_programming_project\\async_programming_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|c:\\users\\dell\\downloads\\async_programming_project\\async_programming_project\\demos\\taskvsthreadsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8498F2BC-5C47-4A0B-BCA9-1C22D50B3EC9}|AsyncProgrammingDemo.csproj|solutionrelative:demos\\taskvsthreadsdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionPropagationDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Demos\\ExceptionPropagationDemo.cs",
+              "RelativeDocumentMoniker": "Demos\\ExceptionPropagationDemo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Demos\\ExceptionPropagationDemo.cs",
+              "RelativeToolTip": "Demos\\ExceptionPropagationDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T22:58:48.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskReturnValueDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Demos\\TaskReturnValueDemo.cs",
+              "RelativeDocumentMoniker": "Demos\\TaskReturnValueDemo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Demos\\TaskReturnValueDemo.cs",
+              "RelativeToolTip": "Demos\\TaskReturnValueDemo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:59:04.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskVsThreadsDemo.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Demos\\TaskVsThreadsDemo.cs",
+              "RelativeDocumentMoniker": "Demos\\TaskVsThreadsDemo.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Demos\\TaskVsThreadsDemo.cs",
+              "RelativeToolTip": "Demos\\TaskVsThreadsDemo.cs",
+              "ViewState": "AQIAAC8BAACAJjMzMzMmwEoBAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:52:27.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\async_programming_project\\async_programming_project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAgwKAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:35:13.466Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 974,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
